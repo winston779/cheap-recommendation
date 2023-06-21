@@ -107,6 +107,10 @@ xgCloud是一家高速稳定的优质V2Ray机场，使用BGP隧道中转和高�
 |季付|￥40|￥70|
 |年付|￥150|￥200|
 
+### 延迟
+
+![image](https://raw.githubusercontent.com/winston779/cheap-recommendation/main/img/jinkela.jpg)
+
 ## 五、Shadowsocks机场
 
 官网地址：[Shadowsocks机场](https://clever99.com/j/shadowsocks)
@@ -125,4 +129,8 @@ Shadowsocks机场与Shadowsocks软件（小火箭）重名，是我用的最久�
 |年付|$19.95 USD|$99.95 USD|
 |两年付|$35.95 USD|$179.95 USD|
 |三年付|$49.95 USD|$259.95 USD|
+
+### 延迟
+
+![image](https://raw.githubusercontent.com/winston779/cheap-recommendation/main/img/shadowsocks.jpg)
 
